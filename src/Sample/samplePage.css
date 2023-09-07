@@ -1,0 +1,31 @@
+@media screen and (max-width: 900px) {
+  .main-image {
+    top: -4rem;
+  }
+  .footer {
+    font-size: 2.5rem;
+  }
+  .arrow-block {
+    height: 20%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .main-image {
+    top: 2rem;
+  }
+  .footer {
+    font-size: 2.5rem;
+    top: 125vw !important;
+  }
+  .arrow-block {
+    height: 67%;
+    width: 98%;
+  }
+  .arrow-image {
+    height: 3rem !important;
+  }
+  .circle {
+    height: 36rem;
+  }
+}
